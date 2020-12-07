@@ -1,0 +1,32 @@
+baseURL = "https://news.machinelearning.sg/"
+languageCode = "en-us"
+title = "News @ machinelearning.sg"
+theme = "hugo-PaperMod"
+publishDir = "docs"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+    env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+    author = ["Eugene"]
+
+    ShowReadingTime = true
+    ShowShareButtons = true
+    comments = false
+    defaultTheme = "auto"
+    disableThemeToggle = false
+    disableSpecial1stPost = false
+
+    [assets]
+        favicon = "/favicon.ico"
+        favicon16x16 = "/favicon-16x16.png"
+        favicon32x32 = "/favicon-32x32.png"
+        apple_touch_icon = "/apple-touch-icon.png"
+        safari_pinned_tab = "/safari-pinned-tab.svg"

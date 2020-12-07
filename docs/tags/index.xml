@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on News @ machinelearning.sg</title>
+    <link>https://news.machinelearning.sg/tags/</link>
+    <description>Recent content in Tags on News @ machinelearning.sg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Dec 2020 17:01:35 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attention</title>
+      <link>https://news.machinelearning.sg/tags/attention/</link>
+      <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biology</title>
+      <link>https://news.machinelearning.sg/tags/biology/</link>
+      <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConvNet</title>
+      <link>https://news.machinelearning.sg/tags/convnet/</link>
+      <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/convnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
+      <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepMind</title>
+      <link>https://news.machinelearning.sg/tags/deepmind/</link>
+      <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/deepmind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformers</title>
+      <link>https://news.machinelearning.sg/tags/transformers/</link>
+      <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/transformers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
