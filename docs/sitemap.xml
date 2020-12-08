@@ -3,6 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://news.machinelearning.sg/tags/conferences/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/neurips/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/neurips2020_singapores_entries_at_the_top_machine_learning_conference_this_year/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/neuroscience/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/singapore/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/</loc>
+    <lastmod>2020-12-08T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://news.machinelearning.sg/posts/alphafold2_10_things_you_want_to_know_about_biologys_imagenet_moment/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
   </url>
@@ -23,33 +73,21 @@
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
-    <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/tags/deepmind/</loc>
-    <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/</loc>
-    <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/posts/</loc>
-    <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/transformers/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/archives/</loc>
   </url>
   
   <url>

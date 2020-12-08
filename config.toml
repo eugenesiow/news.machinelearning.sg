@@ -14,19 +14,34 @@ disableXML = true
 minifyOutput = true
 
 [params]
-    env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
-    author = ["Eugene"]
+env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+author = ["Eugene"]
 
-    ShowReadingTime = true
-    ShowShareButtons = true
-    comments = false
-    defaultTheme = "auto"
-    disableThemeToggle = false
-    disableSpecial1stPost = false
+ShowReadingTime = true
+ShowShareButtons = true
+comments = false
+defaultTheme = "auto"
+disableThemeToggle = false
+disableSpecial1stPost = false
 
-    [assets]
-        favicon = "/favicon.ico"
-        favicon16x16 = "/favicon-16x16.png"
-        favicon32x32 = "/favicon-32x32.png"
-        apple_touch_icon = "/apple-touch-icon.png"
-        safari_pinned_tab = "/safari-pinned-tab.svg"
+[params.assets]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"
+safari_pinned_tab = "/safari-pinned-tab.svg"
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "About"
+url = "about/"
+weight = 10

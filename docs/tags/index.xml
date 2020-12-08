@@ -6,7 +6,61 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Dec 2020 17:01:35 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 09:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conferences</title>
+      <link>https://news.machinelearning.sg/tags/conferences/</link>
+      <pubDate>Tue, 08 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
+      <pubDate>Tue, 08 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
+      <pubDate>Tue, 08 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeurIPS</title>
+      <link>https://news.machinelearning.sg/tags/neurips/</link>
+      <pubDate>Tue, 08 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroscience</title>
+      <link>https://news.machinelearning.sg/tags/neuroscience/</link>
+      <pubDate>Tue, 08 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singapore</title>
+      <link>https://news.machinelearning.sg/tags/singapore/</link>
+      <pubDate>Tue, 08 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/singapore/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Attention</title>
       <link>https://news.machinelearning.sg/tags/attention/</link>
@@ -31,15 +85,6 @@
       <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/convnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
       <description></description>
     </item>
     
