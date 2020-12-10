@@ -6,7 +6,17 @@
     <description>Recent content in Posts on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2020 09:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 5 Machine Learning Code Repositories from Singapore</title>
+      <link>https://news.machinelearning.sg/posts/top_5_machine_learning_code_repositories_from_singapore/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/top_5_machine_learning_code_repositories_from_singapore/</guid>
+      <description>tl;dr We feature 5 of the top machine learning code repositories on Github from Singapore. The ranking is decided based on the total stars (stargazer count) of the repositories.
+ 5. PyTorch Implementation of EfficientDet   Architecture of EfficientDet including a weighted bi-directional feature pyramid network (BiFPN).   A PyTorch implementation of the 2019 Computer Vision paper EfficientDet: Scalable and Efficient Object Detection from Google Brain. The official implementation by Google Brain is in TensorFlow.</description>
+    </item>
+    
     <item>
       <title>NeurIPS2020 - Singapore&#39;s Entries at the Top Machine Learning Conference This Year</title>
       <link>https://news.machinelearning.sg/posts/neurips2020_singapores_entries_at_the_top_machine_learning_conference_this_year/</link>

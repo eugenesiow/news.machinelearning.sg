@@ -1,7 +1,11 @@
 ---
 title: "About"
-author: ""
+author: "Eugene"
 draft: false
+---
+
+{{< figure src="/images/machine_learning_sg_hero.svg" >}}
+
 ---
 
 [machinelearning.sg](https://machinelearning.sg) is a ground-up effort to build and grow the machine learning community 
