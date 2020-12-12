@@ -6,79 +6,7 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Deep Learning</title>
-      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Github</title>
-      <link>https://news.machinelearning.sg/tags/github/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://news.machinelearning.sg/tags/natural-language-processing/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://news.machinelearning.sg/tags/pytorch/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singapore</title>
-      <link>https://news.machinelearning.sg/tags/singapore/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/singapore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Code</title>
-      <link>https://news.machinelearning.sg/tags/source-code/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TensorFlow</title>
-      <link>https://news.machinelearning.sg/tags/tensorflow/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 10 Dec 2020 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Vision</title>
       <link>https://news.machinelearning.sg/tags/computer-vision/</link>
@@ -89,11 +17,83 @@
     </item>
     
     <item>
+      <title>Deep Learning</title>
+      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Finance</title>
       <link>https://news.machinelearning.sg/tags/finance/</link>
       <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://news.machinelearning.sg/tags/github/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://news.machinelearning.sg/tags/natural-language-processing/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://news.machinelearning.sg/tags/pytorch/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singapore</title>
+      <link>https://news.machinelearning.sg/tags/singapore/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/singapore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code</title>
+      <link>https://news.machinelearning.sg/tags/source-code/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow</title>
+      <link>https://news.machinelearning.sg/tags/tensorflow/</link>
+      <pubDate>Thu, 10 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/tensorflow/</guid>
       <description></description>
     </item>
     
