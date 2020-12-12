@@ -16,7 +16,7 @@ minifyOutput = true
 [params]
 env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
 author = ["Eugene"]
-description = "A digital magazine from the machinelearning.sg community that discusses research and trends in artificial intelligence and machine learning. The goal is to provide accessible and technically informed overviews of the what's going on in AI/ML."
+description = "A digital magazine from the machinelearning.sg community that presents research, models, code and trends in artificial intelligence and machine learning."
 ShowReadingTime = true
 ShowShareButtons = true
 comments = false

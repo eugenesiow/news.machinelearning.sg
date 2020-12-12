@@ -12,8 +12,10 @@ cover:
     caption: "Object bounding boxes on video footage as predicted by EfficientDet, a family of scalable and efficient object detectors."
 ---
 
-> **tl;dr** We feature 5 of the top machine learning code repositories on Github from Singapore. The ranking is 
-> decided based on the total stars (stargazer count) of the repositories.
+> **tl;dr** We feature 5 of the top machine learning code repositories on Github from Singapore. The Top 5 is made up of 
+> popular implementations of state-of-the-art Computer Vision (CV) and Natural Language Processing (NLP) models and 
+> even a high-frequency trading project. The ranking is decided based on the total stars (stargazer count) of the 
+> repositories.
 
 ## 5. PyTorch Implementation of EfficientDet
 
