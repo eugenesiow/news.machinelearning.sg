@@ -5,7 +5,7 @@ tags: ["Github", "Deep Learning", "Singapore", "Machine Learning", "Source Code"
 author: "Eugene"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 cover:
     image: ""
     alt: ""
@@ -31,7 +31,7 @@ multilayer convolutional encoder-decoder neural network.
 |Repository|[nusnlp/mlconvgec2018](https://github.com/nusnlp/mlconvgec2018)                       |
 |License   |[GNU General Public License v3.0](https://api.github.com/licenses/gpl-3.0)            |
 |Author    |[NUS NLP Group](http://www.comp.nus.edu.sg/~nlp) ([nusnlp](https://github.com/nusnlp))|
-|Vocation  |National University of Singapore at None                                              |
+|Vocation  |[NLP Group](http://www.comp.nus.edu.sg/~nlp) at National University of Singapore      |
 
 
 |Language|Stars|Forks|Open Issues|
@@ -41,7 +41,7 @@ multilayer convolutional encoder-decoder neural network.
 
 ## 9. Project Insight: NLP as a Service
 
-{{< figure src="nlp_repo_insight.png" title="" >}}
+{{< figure src="nlp_repo_insight.png" title="Project Insight: NLP as a Service. Retrieved from Github." >}}
 
 Project Insight is an NLP as a service project with a frontend UI (**`streamlit`**) and backend server (**`FastApi`**) 
 serving transformers models on various downstream NLP task.
@@ -66,11 +66,17 @@ The downstream NLP tasks covered are:
 |Python  |  225|   29|          4|
 
 
-## 8. An unsupervised neural attention model for aspect extraction
+## 8. An Unsupervised Neural Attention Model for Aspect Extraction
 
-{{< figure src="" title="" >}}
+{{< figure src="nlp_repo_abae.png" title="An example of an Attention-based Aspect Extraction (ABAE) structure. Retrieved from the official paper." >}}
 
-Code for acl2017 paper "An unsupervised neural attention model for aspect extraction"
+Code for the ACL2017 paper "An Unsupervised Neural Attention Model for Aspect Extraction".
+
+Aspect extraction is one of the key tasks in sentiment analysis. It aims to extract entity aspects on which opinions 
+have been expressed. For example, in the sentence "The beef was tender and melted in my mouth", the aspect term is "beef".
+Experimental results on real-life datasets demonstrate that our approach discovers more meaningful and coherent aspects, 
+and substantially outperforms baseline methods on several evaluation tasks. 
+Aspect-Based Sentiment analysis (ABSA) can then be performed on the set of aspects in the downstream task.
 
 |          |                                                                                                 |
 |----------|-------------------------------------------------------------------------------------------------|
@@ -87,9 +93,14 @@ Code for acl2017 paper "An unsupervised neural attention model for aspect extrac
 
 ## 7. ✍🏻 gpt2-client: Easy-to-use TensorFlow Wrapper for GPT-2 🤖 📝 
 
-{{< figure src="" title="" >}}
+{{< figure src="nlp_repo_gpt2_client.png" title="Exploring GPT-2 models in less than five lines of code. Retrieved from Github." >}}
 
-✍🏻 gpt2-client: Easy-to-use TensorFlow Wrapper for GPT-2 117M, 345M, 774M, and 1.5B Transformer Models 🤖 📝 
+GPT-2 is a Natural Language Processing model developed by OpenAI for text generation. The model has 4 versions - 
+117M, 345M, 774M, and 1558M - that differ in terms of the amount of training data fed to it and the number of parameters 
+they contain.
+
+gpt2-client is a wrapper around the original gpt-2 repository that features the same functionality but with more 
+accessiblity, comprehensibility, and utilty. You can play around with all four GPT-2 models in less than five lines of code.
 
 |          |                                                                                      |
 |----------|--------------------------------------------------------------------------------------|
@@ -106,16 +117,23 @@ Code for acl2017 paper "An unsupervised neural attention model for aspect extrac
 
 ## 6. A hierarchical CNN based model to detect Big Five personality traits
 
-{{< figure src="" title="" >}}
+{{< figure src="nlp_repo_big5.png" title="Architecture of the implemented network from the paper. Retrieved from the official paper." >}}
 
-Implementation of a hierarchical CNN based model to detect Big Five personality traits
+This code implements the model discussed in [Deep Learning-Based Document Modeling for Personality Detection from Text](http://sentic.net/deep-learning-based-personality-detection.pdf) 
+for detection of Big-Five personality traits, namely:
+
+- Extroversion
+- Neuroticism
+- Agreeableness
+- Conscientiousness
+- Openness
 
 |          |                                                                                     |
 |----------|-------------------------------------------------------------------------------------|
 |Repository|[SenticNet/personality-detection](https://github.com/SenticNet/personality-detection)|
 |License   |[MIT License](https://api.github.com/licenses/mit)                                   |
 |Author    |[SenticNet](http://sentic.net) ([SenticNet](https://github.com/SenticNet))           |
-|Vocation  |None at None                                                                         |
+|Vocation  |Computational Intelligence Lab (CIL) in the School of Computer Science and Engineering (SCSE) of Nanyang Technological University (NTU).|
 
 
 |Language|Stars|Forks|Open Issues|
@@ -125,7 +143,7 @@ Implementation of a hierarchical CNN based model to detect Big Five personality 
 
 ## 5. SymSpell: Very Fast Spell Checking in Python
 
-{{< figure src="" title="" >}}
+{{< figure src="nlp_repo_symspell.png" title="Performance of SymSpell (C# version) vs other edit distance/spell check algorithms. Retrieved from Github." >}}
 
 A Python port of SymSpell, a [1 million times faster](https://medium.com/@wolfgarbe/fast-approximate-string-matching-with-large-edit-distances-in-big-data-2015-9174a0968c0b) 
 spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm.
@@ -147,18 +165,21 @@ deletes + transposes + replaces + inserts) and language independent.
 |Python  |  391|   75|         10|
 
 
-## 4. :memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
+## 4. Textstat: Python Package to Calculate Readability Statistics of Text
 
-{{< figure src="" title="" >}}
+{{< figure src="nlp_repo_textstat.png" title="Example code to use the Textstat library." >}}
 
-:memo: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.
+Textstat is an easy to use library to calculate statistics from text. It helps determine readability, complexity, and grade level.
+
+It supports various statistics including: Flesch Reading Ease Score, Flesch-Kincaid Grade Level, Fog Scale (Gunning FOG Formula),
+SMOG Index, Automated Readability Index, Coleman-Liau Index, Linsear Write Formula and the Dale-Chall Readability Score.
 
 |          |                                                                                                                                                 |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |Repository|[shivam5992/textstat](https://github.com/shivam5992/textstat)                                                                                    |
 |License   |[MIT License](https://api.github.com/licenses/mit)                                                                                               |
-|Author    |[Shivam Bansal](www.shivambansal.com) ([shivam5992](https://github.com/shivam5992))                                                              |
-|Vocation  |Data Scientist \| Natural Language Processing + Machine Learning Enthusiast \| Data Stories + Visuals \| Programmer + Coder \| :heart: Python at None|
+|Author    |[Shivam Bansal](http://www.shivambansal.com) ([shivam5992](https://github.com/shivam5992))                                                              |
+|Vocation  |Data Scientist \| Natural Language Processing + Machine Learning Enthusiast \| Data Stories + Visuals \| Programmer + Coder \| at H2O.ai |
 
 
 |Language|Stars|Forks|Open Issues|
@@ -168,16 +189,18 @@ deletes + transposes + replaces + inserts) and language independent.
 
 ## 3. Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 
-{{< figure src="" title="" >}}
+{{< figure src="nlp_repo_twitter_sentiment.png" title="Flowchart of the majority voting ensemble used. Retrieved from the official report." >}}
 
-Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
+Sentiment classification on twitter dataset. The authors use a number of machine learning and deep learning methods to 
+perform sentiment analysis (Naive Bayes, SVM, CNN, LSTM, etc.). The authors finally use a majority vote ensemble method 
+with 5 of our best models to achieve the classification accuracy of 83.58% on kaggle public leaderboard.
 
 |          |                                                                                                 |
 |----------|-------------------------------------------------------------------------------------------------|
 |Repository|[abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis)|
 |License   |[MIT License](https://api.github.com/licenses/mit)                                               |
 |Author    |[Abdul Fatir](http://abdulfatir.com) ([abdulfatir](https://github.com/abdulfatir))               |
-|Vocation  |CS PhD Student at National University of Singapore at None                                       |
+|Vocation  |CS PhD Student at National University of Singapore                                       |
 
 
 |Language|Stars|Forks|Open Issues|
@@ -185,11 +208,13 @@ Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 |Python  |  918|  442|         22|
 
 
-## 2. Turn Chinese natural language into structured data 中文自然语言理解
+## 2. RASA NLU for Chinese
 
-{{< figure src="" title="" >}}
+{{< figure src="nlp_repo_rasa_nlu_chinese.png" title="Natural Language Understanding outputs from the RASA NLU Chinese model. Retrieved from Github." >}}
 
-Turn Chinese natural language into structured data 中文自然语言理解
+A fork from the RASA (contextual AI assistant/chatbot) NLU repository. Focused on the Natural Language Understanding (NLU) 
+task (中文自然语言理解). 
+Turn a chinese natural language sentence/utterance into structured data.
 
 |          |                                                                       |
 |----------|-----------------------------------------------------------------------|

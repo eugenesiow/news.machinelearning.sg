@@ -9,7 +9,7 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-googleAnalytics = "G-FJC1WH67ES"
+googleAnalytics = "UA-185405110-1"
 
 [minify]
 disableXML = true

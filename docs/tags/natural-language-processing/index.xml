@@ -6,7 +6,17 @@
     <description>Recent content in Natural Language Processing on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Dec 2020 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Dec 2020 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 10 Natural Language Processing Code Repositories from Singapore</title>
+      <link>https://news.machinelearning.sg/posts/top_10_natural_language_processing_code_repositories_from_singapore/</link>
+      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/top_10_natural_language_processing_code_repositories_from_singapore/</guid>
+      <description>tl;dr We feature 10 of the top Natural Language Processing (NLP) code repositories on Github from Singapore. The ranking is decided based on the total stars (stargazer count) of the repositories.
+ 10. A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction   Architecture of the multilayer convolutional model with seven encoder and seven decoder layers. Retrieved from the official paper.   Code and model files for the paper: &amp;ldquo;A Multilayer Convolutional Encoder-Decoder Neural Network for Grammatical Error Correction&amp;rdquo; (Published at AAAI-18).</description>
+    </item>
+    
     <item>
       <title>Top 5 Machine Learning Code Repositories from Singapore</title>
       <link>https://news.machinelearning.sg/posts/top_5_machine_learning_code_repositories_from_singapore/</link>
