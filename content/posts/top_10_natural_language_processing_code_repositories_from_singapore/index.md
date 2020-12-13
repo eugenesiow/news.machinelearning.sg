@@ -7,9 +7,9 @@ showToc: true
 TocOpen: false
 draft: false
 cover:
-    image: ""
-    alt: ""
-    caption: ""
+    image: "nlp_repo_gpt2_client.png"
+    alt: "Exploring GPT-2 models in less than five lines of code. Retrieved from Github."
+    caption: "Exploring GPT-2 models in less than five lines of code."
 ---
 
 > **tl;dr** We feature 10 of the top Natural Language Processing (NLP) code repositories on Github from Singapore. 
