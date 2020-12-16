@@ -120,3 +120,7 @@ MobileNet and DRN are provided.
 |Language   |Stars      |Forks      |Watchers   |Open Issues    |
 |-	        |-	        |-	        |-          |-              |
 |Python     |2,057      |634        |47         |95             |
+
+## More ML repositories
+
+Visit [machinelearning.sg](https://machinelearning.sg/repo/) to view a full list of ML repositories from Singapore.

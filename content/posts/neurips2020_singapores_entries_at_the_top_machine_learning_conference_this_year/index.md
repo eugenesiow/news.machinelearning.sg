@@ -99,3 +99,7 @@ We count 44 accepted publications with an author with a SG-based affiliation and
 
 There is no particular order of note. The list was ranked by early citations, which is as good as random for now. Data was
 obtained from the pretty awesome [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/).
+
+## More ML Papers
+
+Visit [machinelearning.sg](https://machinelearning.sg/publication/) to view a full list of ML publications from Singapore.

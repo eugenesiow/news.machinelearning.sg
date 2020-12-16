@@ -247,4 +247,8 @@ named entity recognition (__NER__/实体识别), relation extraction (__RE__/关
 |-	        |-	        |-	        |-              |
 |Python     |1,692      |748        |102            |
 
+## More NLP repositories
+
+Visit [machinelearning.sg](https://machinelearning.sg/repo/) to view a full list of ML repositories from Singapore.
+
 
