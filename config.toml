@@ -33,6 +33,22 @@ favicon32x32 = "/favicon-32x32.png"
 apple_touch_icon = "/apple-touch-icon.png"
 safari_pinned_tab = "/safari-pinned-tab.svg"
 
+[params.homeInfoParams]
+Title = "\U0001F44B Bringing the latest ML news to you…"
+Content = "**News.machinelearning.sg** is a digital magazine that discusses research and trends in artificial intelligence and machine learning in an accessible and technically informed way. It's part of the Singapore-based **machinelearning.sg** community."
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/ml_dot_sg"
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/MachineLearning.sg"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/company/machinelearning-sg"
+
 [[languages.en.menu.main]]
 name = "Tags"
 url = "tags/"

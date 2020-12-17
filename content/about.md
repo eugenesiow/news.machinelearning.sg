@@ -26,3 +26,11 @@ more of them to be written.
 donations, which will help to cover hosting costs and other expenses.
 
 {{< buymeacoffee eugenesiow >}}
+
+---
+
+### Connect
+
+Like and follow us on [Facebook](https://www.facebook.com/MachineLearning.sg), 
+[Twitter](https://twitter.com/ml_dot_sg) and 
+[LinkedIn](https://www.linkedin.com/company/machinelearning-sg).
