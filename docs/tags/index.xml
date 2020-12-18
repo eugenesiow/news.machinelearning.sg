@@ -6,7 +6,52 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Dec 2020 09:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 09:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://news.machinelearning.sg/tags/artificial-intelligence/</link>
+      <pubDate>Fri, 18 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese</title>
+      <link>https://news.machinelearning.sg/tags/chinese/</link>
+      <pubDate>Fri, 18 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://news.machinelearning.sg/tags/computer-vision/</link>
+      <pubDate>Fri, 18 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
+      <pubDate>Fri, 18 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://news.machinelearning.sg/tags/natural-language-processing/</link>
+      <pubDate>Fri, 18 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Cloud Computing</title>
       <link>https://news.machinelearning.sg/tags/cloud-computing/</link>
@@ -62,24 +107,6 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Thu, 17 Dec 2020 09:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
-      <link>https://news.machinelearning.sg/tags/computer-vision/</link>
-      <pubDate>Wed, 16 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Github</title>
       <link>https://news.machinelearning.sg/tags/github/</link>
       <pubDate>Wed, 16 Dec 2020 08:00:00 +0800</pubDate>
@@ -121,15 +148,6 @@
       <pubDate>Wed, 16 Dec 2020 08:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://news.machinelearning.sg/tags/natural-language-processing/</link>
-      <pubDate>Sat, 12 Dec 2020 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
