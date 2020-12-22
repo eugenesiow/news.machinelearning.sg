@@ -3,6 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://news.machinelearning.sg/tags/colab/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/gpu/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/sentiment-analysis/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/sentiment_analysis_on_movie_reviews_with_xlnet/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/source-code/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/</loc>
+    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/learn_to_train_a_state_of_the_art_model_for_sarcasm_detection/</loc>
+    <lastmod>2020-12-22T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/sarcasm-detection/</loc>
+    <lastmod>2020-12-22T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://news.machinelearning.sg/posts/an_english_to_mandarin_ai_glossary_of_state_of_the_art_topics/</loc>
     <lastmod>2020-12-18T09:00:00+08:00</lastmod>
   </url>
@@ -23,42 +98,7 @@
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
-    <lastmod>2020-12-18T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
-    <lastmod>2020-12-18T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/</loc>
-    <lastmod>2020-12-18T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/posts/</loc>
-    <lastmod>2020-12-18T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/</loc>
-    <lastmod>2020-12-18T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/tags/cloud-computing/</loc>
-    <lastmod>2020-12-17T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/colab/</loc>
-    <lastmod>2020-12-17T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
     <lastmod>2020-12-17T09:00:00+08:00</lastmod>
   </url>
   
@@ -68,17 +108,7 @@
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/gpu/</loc>
-    <lastmod>2020-12-17T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/tags/hardware/</loc>
-    <lastmod>2020-12-17T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
     <lastmod>2020-12-17T09:00:00+08:00</lastmod>
   </url>
   
@@ -88,17 +118,7 @@
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
-    <lastmod>2020-12-16T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/tags/singapore/</loc>
-    <lastmod>2020-12-16T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/source-code/</loc>
     <lastmod>2020-12-16T08:00:00+08:00</lastmod>
   </url>
   

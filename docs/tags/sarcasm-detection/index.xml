@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarcasm Detection on News @ machinelearning.sg</title>
+    <link>https://news.machinelearning.sg/tags/sarcasm-detection/</link>
+    <description>Recent content in Sarcasm Detection on News @ machinelearning.sg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2020 09:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/sarcasm-detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn to Train a State-of-the-Art Model for Sarcasm Detection</title>
+      <link>https://news.machinelearning.sg/posts/learn_to_train_a_state_of_the_art_model_for_sarcasm_detection/</link>
+      <pubDate>Tue, 22 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/learn_to_train_a_state_of_the_art_model_for_sarcasm_detection/</guid>
+      <description>tl;dr A step-by-step tutorial to train a state-of-the-art model to detect sarcasm 🙄 from tweets with a free Jupyter Notebook in the cloud.
+ Sooo Impressive Sarcasm Detection Model on Tweets Recently Venture Beat published (and Communications of the ACM referenced)
+a news article titled &amp;ldquo;AI researchers made a sarcasm detection model and it’s sooo impressive&amp;rdquo; which detailed how researchers from China had come up with a &amp;ldquo;sarcasm detection AI&amp;rdquo; that &amp;ldquo;achieved state-of-the-art performance on a dataset drawn from Twitter&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

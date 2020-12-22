@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sentiment Analysis on News @ machinelearning.sg</title>
+    <link>https://news.machinelearning.sg/tags/sentiment-analysis/</link>
+    <description>Recent content in Sentiment Analysis on News @ machinelearning.sg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentiment Analysis on Movie Reviews with XLNet</title>
+      <link>https://news.machinelearning.sg/posts/sentiment_analysis_on_movie_reviews_with_xlnet/</link>
+      <pubDate>Tue, 22 Dec 2020 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/sentiment_analysis_on_movie_reviews_with_xlnet/</guid>
+      <description>tl;dr A step-by-step tutorial to train a sentiment analysis model to classify polarity of IMDB movie reviews with XLNet using a free Jupyter Notebook in the cloud.
+ The IMDB Movie Reviews Dataset and XLNet The Internet Movie Database (IMDb) movie reviews dataset is a very well-established benchmark (since 2011) for sentiment analysis performance. It&amp;rsquo;s probably the first large-ish (50,000 train+test), balanced sentiment analysis dataset, making it a very nice dataset for benchmarking on.</description>
+    </item>
+    
+  </channel>
+</rss>
