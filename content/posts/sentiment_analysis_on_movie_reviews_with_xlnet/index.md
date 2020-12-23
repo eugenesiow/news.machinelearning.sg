@@ -193,7 +193,7 @@ from google.colab import drive
 drive.mount('/content/drive/')
 ```
 
-You can move the model checkpount files which are saved in the `/content/outputs/best_model/` directory to your Google Drive.
+You can move the model checkpount files which are saved in the `/outputs/` directory to your Google Drive.
 
 
 ```python

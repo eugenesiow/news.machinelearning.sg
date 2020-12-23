@@ -4,66 +4,81 @@
   
   <url>
     <loc>https://news.machinelearning.sg/tags/colab/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/gpu/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/posts/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/sentiment-analysis/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/posts/sentiment_analysis_on_movie_reviews_with_xlnet/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <loc>https://news.machinelearning.sg/posts/sentiment_analysis_in_mandarin_with_xlnet/</loc>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/source-code/</loc>
-    <lastmod>2020-12-22T16:00:00+08:00</lastmod>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/</loc>
+    <lastmod>2020-12-23T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/named-entity-recognition/</loc>
+    <lastmod>2020-12-23T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/train_a_named_entity_recognition_model_using_flair/</loc>
+    <lastmod>2020-12-23T09:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/sentiment_analysis_on_movie_reviews_with_xlnet/</loc>
     <lastmod>2020-12-22T16:00:00+08:00</lastmod>
   </url>
   

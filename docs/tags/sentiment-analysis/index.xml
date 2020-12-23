@@ -6,7 +6,18 @@
     <description>Recent content in Sentiment Analysis on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 10:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentiment Analysis in Mandarin with XLNet</title>
+      <link>https://news.machinelearning.sg/posts/sentiment_analysis_in_mandarin_with_xlnet/</link>
+      <pubDate>Wed, 23 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/sentiment_analysis_in_mandarin_with_xlnet/</guid>
+      <description>tl;dr A step-by-step tutorial to train a state-of-the-art model for sentiment analysis on mandarin food delivery reviews using the XLNet architecture. We will use Google Colab&amp;rsquo;s free Jupyter Notebook in the cloud.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
     <item>
       <title>Sentiment Analysis on Movie Reviews with XLNet</title>
       <link>https://news.machinelearning.sg/posts/sentiment_analysis_on_movie_reviews_with_xlnet/</link>

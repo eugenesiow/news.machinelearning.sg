@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Named Entity Recognition on News @ machinelearning.sg</title>
+    <link>https://news.machinelearning.sg/tags/named-entity-recognition/</link>
+    <description>Recent content in Named Entity Recognition on News @ machinelearning.sg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2020 09:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/named-entity-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Train a Named Entity Recognition (NER) Model Using FLAIR</title>
+      <link>https://news.machinelearning.sg/posts/train_a_named_entity_recognition_model_using_flair/</link>
+      <pubDate>Wed, 23 Dec 2020 09:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/train_a_named_entity_recognition_model_using_flair/</guid>
+      <description>tl;dr A step-by-step tutorial to train a state-of-the-art model for named entity recongition (NER), the task of identifying persons, organizations and locations from a piece of text.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
+  </channel>
+</rss>
