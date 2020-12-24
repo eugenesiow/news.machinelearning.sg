@@ -24,7 +24,7 @@ Hit the **`Open in Colab`** button below to launch a Jupyter Notebook in the clo
 Continue on if you prefer reading the code here.
 
 
-## Sentiment Analysis in Mandarin on Food Delivery Reviews
+## Sentiment Analysis in Mandarin on Food Delivery Reviews, 情感分析
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugenesiow/practical-ml/blob/master/notebooks/Sentiment_Analysis_Mandarin_Food_Reviews.ipynb "Open in Colab")
 
@@ -189,6 +189,13 @@ shutil.move('/outputs/', "/content/drive/My Drive/outputs/")
 Visit or star the [eugenesiow/practical-ml](https://github.com/eugenesiow/practical-ml) repository on Github for more such notebooks:
 
 {{< ghbtns eugenesiow practical-ml "Practical Machine Learning" >}}
+
+## AI Glossary in Mandarin
+
+Visit or star the [eugenesiow/ai-glossary-mandarin](https://github.com/eugenesiow/ai-glossary-mandarin) repository on 
+Github if you need an English-to-Mandarin dictionary of AI terminology grouped topically by areas (e.g. NLP) and tasks (e.g. NER):
+
+{{< ghbtns eugenesiow ai-glossary-mandarin "AI Glossary in Mandarin" >}}
 
 ## Alternatives to Colab
 

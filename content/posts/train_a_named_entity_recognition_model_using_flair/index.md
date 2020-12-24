@@ -11,7 +11,7 @@ cover:
     alt: "Named Entity Recognition (NER) Model Using FLAIR"
 ---
 
-> **tl;dr** A step-by-step tutorial to train a state-of-the-art model for named entity recongition (NER), 
+> **tl;dr** A step-by-step tutorial to train a state-of-the-art model for named entity recognition (NER), 
 >the task of identifying persons, organizations and locations from a piece of text.
 
 ## Practical Machine Learning - Learn Step-by-Step to Train a Model
