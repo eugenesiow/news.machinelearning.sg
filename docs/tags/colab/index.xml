@@ -6,7 +6,18 @@
     <description>Recent content in Colab on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 10:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/colab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/colab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beautiful Profile Pics: Remove Image Background with DeepLabV3</title>
+      <link>https://news.machinelearning.sg/posts/beautiful_profile_pics_remove_background_image_with_deeplabv3/</link>
+      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/beautiful_profile_pics_remove_background_image_with_deeplabv3/</guid>
+      <description>tl;dr A step-by-step tutorial to remove backgrounds from photos automatically with DeepLabV3-ResNet101 to create that killer professional photo for your next LinkedIn profile picture.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
     <item>
       <title>Named Entity Recognition with BERT in Mandarin</title>
       <link>https://news.machinelearning.sg/posts/named_entity_recognition_with_bert_in_mandarin/</link>

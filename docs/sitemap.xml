@@ -3,27 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://news.machinelearning.sg/posts/beautiful_profile_pics_remove_background_image_with_deeplabv3/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://news.machinelearning.sg/tags/colab/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/computer-vision/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/gpu/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
+    <loc>https://news.machinelearning.sg/tags/image-segmentation/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/source-code/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/</loc>
+    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/gpu/</loc>
     <lastmod>2020-12-24T10:00:00+08:00</lastmod>
   </url>
   
@@ -39,31 +79,6 @@
   
   <url>
     <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/posts/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/source-code/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/</loc>
     <lastmod>2020-12-24T10:00:00+08:00</lastmod>
   </url>
   
@@ -119,11 +134,6 @@
   
   <url>
     <loc>https://news.machinelearning.sg/tags/chinese/</loc>
-    <lastmod>2020-12-18T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/computer-vision/</loc>
     <lastmod>2020-12-18T09:00:00+08:00</lastmod>
   </url>
   
