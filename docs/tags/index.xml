@@ -6,20 +6,20 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Colab</title>
-      <link>https://news.machinelearning.sg/tags/colab/</link>
-      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
+      <title>Artificial Intelligence</title>
+      <link>https://news.machinelearning.sg/tags/artificial-intelligence/</link>
+      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
       
-      <guid>https://news.machinelearning.sg/tags/colab/</guid>
+      <guid>https://news.machinelearning.sg/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Vision</title>
       <link>https://news.machinelearning.sg/tags/computer-vision/</link>
-      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
+      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/computer-vision/</guid>
       <description></description>
@@ -28,9 +28,36 @@
     <item>
       <title>Deep Learning</title>
       <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
+      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
+      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roundup</title>
+      <link>https://news.machinelearning.sg/tags/roundup/</link>
+      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/roundup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colab</title>
+      <link>https://news.machinelearning.sg/tags/colab/</link>
+      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/colab/</guid>
       <description></description>
     </item>
     
@@ -49,15 +76,6 @@
       <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -130,15 +148,6 @@
       <pubDate>Tue, 22 Dec 2020 09:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/sarcasm-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://news.machinelearning.sg/tags/artificial-intelligence/</link>
-      <pubDate>Fri, 18 Dec 2020 09:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     

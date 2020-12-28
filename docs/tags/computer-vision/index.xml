@@ -6,7 +6,17 @@
     <description>Recent content in Computer Vision on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 2020 Roundup: AlphaFold, Tennis and Causality</title>
+      <link>https://news.machinelearning.sg/posts/ai_2020_roundup_alphafold_tennis_causality/</link>
+      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/ai_2020_roundup_alphafold_tennis_causality/</guid>
+      <description>Part 1 of our roundup featuring the latest and greatest AI advancements and directions from 2020. Today we cover AlphaFold&amp;rsquo;s biology breakthrough, controllable tennis videos and causality touted as the next step for AI.
+ AlphaFold&amp;rsquo;s Winning Protein-structure Prediction Competition CASP By a Mile is AI&amp;rsquo;s Biggest Breakthrough this Year AlphaFold2, an AI program developed by DeepMind, completely blew away the competition in a protein-structure prediction competition, CASP, so much so, the co-founder of the competition has commented that &amp;ldquo;in some sense&amp;rdquo; the 50-year old problem, is solved.</description>
+    </item>
+    
     <item>
       <title>Beautiful Profile Pics: Remove Image Background with DeepLabV3</title>
       <link>https://news.machinelearning.sg/posts/beautiful_profile_pics_remove_background_image_with_deeplabv3/</link>
