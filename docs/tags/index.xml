@@ -6,11 +6,11 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence</title>
       <link>https://news.machinelearning.sg/tags/artificial-intelligence/</link>
-      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/artificial-intelligence/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Computer Vision</title>
       <link>https://news.machinelearning.sg/tags/computer-vision/</link>
-      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/computer-vision/</guid>
       <description></description>
@@ -28,16 +28,25 @@
     <item>
       <title>Deep Learning</title>
       <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Graph Neural Networks</title>
+      <link>https://news.machinelearning.sg/tags/graph-neural-networks/</link>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
       <description></description>
@@ -46,7 +55,7 @@
     <item>
       <title>Roundup</title>
       <link>https://news.machinelearning.sg/tags/roundup/</link>
-      <pubDate>Mon, 28 Dec 2020 16:00:00 +0800</pubDate>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/roundup/</guid>
       <description></description>

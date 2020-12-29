@@ -6,7 +6,17 @@
     <description>Recent content on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 2020 Roundup: Talent in Demand, GNNs are Hot and a New Macbook M1 for AI</title>
+      <link>https://news.machinelearning.sg/posts/ai_2020_roundup_talent_in_demand_gnns_are_hot_new_macbook_m1/</link>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/ai_2020_roundup_talent_in_demand_gnns_are_hot_new_macbook_m1/</guid>
+      <description>Part 2 of our roundup featuring the latest and greatest AI advancements and directions from 2020. We cover the global shortage of AI talent, Graph Neural Networks being the hotest research area and a new Macbook for machine learning.
+ AI Talent in Shortage, in High Demand byt not Pandemic Proof As companies around the world started to embrace AI in 2017 to 2019 and aggressively hire AI talent, demand outstripped supply from universities and institutions of higher learning.</description>
+    </item>
+    
     <item>
       <title>AI 2020 Roundup: AlphaFold, Tennis and Causality</title>
       <link>https://news.machinelearning.sg/posts/ai_2020_roundup_alphafold_tennis_causality/</link>
