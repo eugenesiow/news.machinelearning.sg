@@ -6,7 +6,97 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Dec 2020 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 10:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biology</title>
+      <link>https://news.machinelearning.sg/tags/biology/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colab</title>
+      <link>https://news.machinelearning.sg/tags/colab/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/colab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://news.machinelearning.sg/tags/gpu/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Named Entity Recognition</title>
+      <link>https://news.machinelearning.sg/tags/named-entity-recognition/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/named-entity-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://news.machinelearning.sg/tags/natural-language-processing/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://news.machinelearning.sg/tags/pytorch/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code</title>
+      <link>https://news.machinelearning.sg/tags/source-code/</link>
+      <pubDate>Wed, 30 Dec 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Artificial Intelligence</title>
       <link>https://news.machinelearning.sg/tags/artificial-intelligence/</link>
@@ -26,29 +116,11 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Graph Neural Networks</title>
       <link>https://news.machinelearning.sg/tags/graph-neural-networks/</link>
       <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/graph-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Tue, 29 Dec 2020 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -62,74 +134,11 @@
     </item>
     
     <item>
-      <title>Colab</title>
-      <link>https://news.machinelearning.sg/tags/colab/</link>
-      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/colab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Image Segmentation</title>
       <link>https://news.machinelearning.sg/tags/image-segmentation/</link>
       <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/image-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jupyter Notebook</title>
-      <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
-      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://news.machinelearning.sg/tags/pytorch/</link>
-      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Code</title>
-      <link>https://news.machinelearning.sg/tags/source-code/</link>
-      <pubDate>Thu, 24 Dec 2020 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPU</title>
-      <link>https://news.machinelearning.sg/tags/gpu/</link>
-      <pubDate>Thu, 24 Dec 2020 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Named Entity Recognition</title>
-      <link>https://news.machinelearning.sg/tags/named-entity-recognition/</link>
-      <pubDate>Thu, 24 Dec 2020 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/named-entity-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://news.machinelearning.sg/tags/natural-language-processing/</link>
-      <pubDate>Thu, 24 Dec 2020 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
@@ -256,15 +265,6 @@
       <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/attention/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biology</title>
-      <link>https://news.machinelearning.sg/tags/biology/</link>
-      <pubDate>Mon, 07 Dec 2020 17:01:35 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/biology/</guid>
       <description></description>
     </item>
     

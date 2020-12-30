@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://news.machinelearning.sg/tags/biology/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/biology_named_entity_recognition_with_biobert/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/colab/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/gpu/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/named-entity-recognition/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/source-code/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/</loc>
+    <lastmod>2020-12-30T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://news.machinelearning.sg/posts/ai_2020_roundup_talent_in_demand_gnns_are_hot_new_macbook_m1/</loc>
     <lastmod>2020-12-29T16:00:00+08:00</lastmod>
   </url>
@@ -18,37 +88,12 @@
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
-    <lastmod>2020-12-29T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/tags/graph-neural-networks/</loc>
     <lastmod>2020-12-29T16:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
-    <lastmod>2020-12-29T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/</loc>
-    <lastmod>2020-12-29T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/posts/</loc>
-    <lastmod>2020-12-29T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/tags/roundup/</loc>
-    <lastmod>2020-12-29T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/</loc>
     <lastmod>2020-12-29T16:00:00+08:00</lastmod>
   </url>
   
@@ -63,47 +108,12 @@
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/colab/</loc>
-    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/tags/image-segmentation/</loc>
     <lastmod>2020-12-24T16:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
-    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
-    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/source-code/</loc>
-    <lastmod>2020-12-24T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/gpu/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/named-entity-recognition/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/posts/named_entity_recognition_with_bert_in_mandarin/</loc>
-    <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
     <lastmod>2020-12-24T10:00:00+08:00</lastmod>
   </url>
   
@@ -234,11 +244,6 @@
   
   <url>
     <loc>https://news.machinelearning.sg/tags/attention/</loc>
-    <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/biology/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
   </url>
   
