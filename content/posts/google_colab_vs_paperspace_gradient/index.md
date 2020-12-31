@@ -113,6 +113,9 @@ allow sharing your notebooks and models quite easily.
 For Colab you should connect to your Google Drive and upgrade that with Google One (upgrading it to 100GB will cost you SGD$2.79 per month) 
 if you need more storage space.  
 
+If you do sign up for Gradient, you can use this [referral code](https://console.paperspace.com/signup?R=WECSCBH) which 
+gives you $10 free credit and sends $15 free credit our way.
+
 Also, be sure to check out the [top repositories](https://machinelearning.sg/repo/) from Singapore on [machinelearning.sg](https://machinelearning.sg/).
 
 ## Other Alternatives
