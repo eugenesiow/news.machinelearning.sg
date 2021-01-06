@@ -6,7 +6,18 @@
     <description>Recent content in Machine Learning on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 15:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jan 2021 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hate Speech Detection with Transformers</title>
+      <link>https://news.machinelearning.sg/posts/hate_speech_detection_with_transformers/</link>
+      <pubDate>Wed, 06 Jan 2021 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/hate_speech_detection_with_transformers/</guid>
+      <description>tl;dr A step-by-step tutorial to train a hate speech detection model to classify text containing hate speech. The trained model has a BERT-based transformer architecture.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
     <item>
       <title>Fully Automated Manga Translation with AI</title>
       <link>https://news.machinelearning.sg/posts/fully_automated_manga_translation_with_ai/</link>
