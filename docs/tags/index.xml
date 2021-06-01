@@ -6,13 +6,76 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 May 2021 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 18:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colab</title>
       <link>https://news.machinelearning.sg/tags/colab/</link>
-      <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/colab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://news.machinelearning.sg/tags/pytorch/</link>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code</title>
+      <link>https://news.machinelearning.sg/tags/source-code/</link>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>https://news.machinelearning.sg/tags/speech/</link>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-to-Speech</title>
+      <link>https://news.machinelearning.sg/tags/text-to-speech/</link>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/text-to-speech/</guid>
       <description></description>
     </item>
     
@@ -26,56 +89,11 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jupyter Notebook</title>
-      <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
-      <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Object Detection</title>
       <link>https://news.machinelearning.sg/tags/object-detection/</link>
       <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/object-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://news.machinelearning.sg/tags/pytorch/</link>
-      <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Code</title>
-      <link>https://news.machinelearning.sg/tags/source-code/</link>
-      <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,29 @@
     <description>Recent content in Posts on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 May 2021 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 May 2021 18:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text to Speech with Tacotron2 and WaveGlow</title>
+      <link>https://news.machinelearning.sg/posts/text_to_speech_with_tacotron2_and_waveglow/</link>
+      <pubDate>Mon, 31 May 2021 18:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/text_to_speech_with_tacotron2_and_waveglow/</guid>
+      <description>tl;dr A step-by-step tutorial to generate spoken audio from text automatically using a pipeline of Nvidia&amp;rsquo;s Tacotron2 and WaveGlow models and applying speech enhancement.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
+    <item>
+      <title>Text to Speech with Silero</title>
+      <link>https://news.machinelearning.sg/posts/text_to_speech_with_silero/</link>
+      <pubDate>Mon, 31 May 2021 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/text_to_speech_with_silero/</guid>
+      <description>tl;dr A step-by-step tutorial to generate spoken audio from text automatically using the enterprise-grade SileroTTS model and applying speech enhancement.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
     <item>
       <title>Object Detection with YOLOv5: Detecting People in Images</title>
       <link>https://news.machinelearning.sg/posts/object_detection_with_yolov5/</link>
