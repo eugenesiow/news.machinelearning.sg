@@ -68,7 +68,17 @@
   </url>
   
   <url>
+    <loc>https://news.machinelearning.sg/posts/anime_super_resolution_with_pytorch/</loc>
+    <lastmod>2021-05-30T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://news.machinelearning.sg/tags/computer-vision/</loc>
+    <lastmod>2021-05-30T16:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/image-super-resolution/</loc>
     <lastmod>2021-05-30T16:00:00+08:00</lastmod>
   </url>
   

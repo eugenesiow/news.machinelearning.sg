@@ -24,12 +24,6 @@ Continue on if you prefer reading the code here.
 
 # Detect Persons From An Image with YOLOv5 Object Detection
 
----
-
-[Github](https://github.com/eugenesiow/practical-ml/blob/master/notebooks/Remove_Image_Background_DeepLabV3.ipynb) | More Notebooks @ [eugenesiow/practical-ml](https://github.com/eugenesiow/practical-ml)
-
----
-
 Notebook to detect persons from a image and to export clippings of the persons and an image with bounding boxes drawn. It can detect classes other than persons as well.
 
 [Object detection](https://paperswithcode.com/task/object-detection) is the task of detecting instances of objects of a certain class within an image. The state-of-the-art methods can be categorized into two main types: one-stage methods and two stage-methods. Pre-trained YOLOv5 models are used in this one-stage method that prioritizes inference speed.
