@@ -1,6 +1,6 @@
 ---
 title: "Anime Image Super Resolution with PyTorch and Waifu2x"
-date: 2021-05-30T16:00:00+08:00
+date: 2021-06-15T16:00:00+08:00
 tags: ["Computer Vision", "Deep Learning", "Machine Learning", "Source Code", "PyTorch", "Image Super Resolution", "Jupyter Notebook", "Colab"]
 author: "Eugene"
 showToc: true
@@ -18,7 +18,7 @@ cover:
 A great way to learn is by going step-by-step through the process of training and evaluating the model.
 
 Hit the **`Open in Colab`** button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugenesiow/practical-ml/blob/master/notebooks/Detect_Persons_From_Image_YOLOv5.ipynb "Open in Colab")
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugenesiow/practical-ml/blob/master/notebooks/Anime_Super_Resolution_PyTorch.ipynb "Open in Colab")
 
 Continue on if you prefer reading the code here.
 
@@ -266,4 +266,14 @@ import shutil
 shutil.move('/content/CARN_V2_single.jpg', '/content/drive/My Drive/CARN_V2_single.jpg')
 ```
 
-More Notebooks @ [eugenesiow/practical-ml](https://github.com/eugenesiow/practical-ml) and do star or drop us some feedback on how to improve the notebooks on the [Github repo](https://github.com/eugenesiow/practical-ml/).
+## More Such Notebooks
+
+Visit or star the [eugenesiow/practical-ml](https://github.com/eugenesiow/practical-ml) repository on Github for more such notebooks:
+
+{{< ghbtns eugenesiow practical-ml "Practical Machine Learning" >}}
+
+## Alternatives to Colab
+
+Here are some alternatives to Google Colab to train models or run Jupyter Notebooks in the cloud:
+
+- [Google Colab vs Paperspace Gradient](https://news.machinelearning.sg/posts/google_colab_vs_paperspace_gradient/)

@@ -6,7 +6,19 @@
     <description>Recent content on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 May 2021 18:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jun 2021 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anime Image Super Resolution with PyTorch and Waifu2x</title>
+      <link>https://news.machinelearning.sg/posts/anime_super_resolution_with_pytorch/</link>
+      <pubDate>Tue, 15 Jun 2021 16:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/anime_super_resolution_with_pytorch/</guid>
+      <description>tl;dr A step-by-step tutorial to upscale anime images by 2x using Waifu2x and CARN V2 super resolution models.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough. 
+Continue on if you prefer reading the code here.</description>
+    </item>
+    
     <item>
       <title>Text to Speech with Tacotron2 and WaveGlow</title>
       <link>https://news.machinelearning.sg/posts/text_to_speech_with_tacotron2_and_waveglow/</link>
@@ -27,18 +39,6 @@ Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud wit
       <description>tl;dr A step-by-step tutorial to generate spoken audio from text automatically using the enterprise-grade SileroTTS model and applying speech enhancement.
  Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
 Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
-    </item>
-    
-    <item>
-      <title>Anime Image Super Resolution with PyTorch and Waifu2x</title>
-      <link>https://news.machinelearning.sg/posts/anime_super_resolution_with_pytorch/</link>
-      <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/posts/anime_super_resolution_with_pytorch/</guid>
-      <description>tl;dr A step-by-step tutorial to upscale anime images by 2x using Waifu2x and CARN V2 super resolution models.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
-Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough. 
-Continue on if you prefer reading the code here.</description>
     </item>
     
     <item>
