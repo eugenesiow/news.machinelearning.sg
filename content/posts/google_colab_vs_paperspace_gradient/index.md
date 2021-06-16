@@ -50,6 +50,7 @@ to me).
 to download all your files before ending the session. [Upgrading](https://one.google.com/about/plans) your Google Drive 
 for more storage costs a SGD$2.79/per month for 100GB and SGD$3.88/month for 200GB.
 - In Gradient you can only use public notebooks in Free tier.
+- [Tim Dettmers](https://timdettmers.com/) has an excellent article on which GPU to choose for deep learning and detailed [GPU performance comparisons](https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/#GPU_Deep_Learning_Performance). A100s and V100s are by far superior although RTX 3090s give V100s a run for their money.
 
 ## How much does it cost if I need more?
 
@@ -124,3 +125,11 @@ Also, be sure to check out the [top repositories](https://machinelearning.sg/rep
 2. [BlobCity](https://cloud.blobcity.com/#/ps/explore) - $75/month for GPU workloads, basic public CPU workloads are free
 3. [FloydHub](https://www.floydhub.com/) - $9/month + $1.20/hr for GPU workloads, basic public CPU workloads are free
 4. [Q Blocks](https://www.qblocks.cloud/) - P2P, $20 package for ~100 GPU hours.
+5. [Vast.ai](https://vast.ai/console/create/) - $1.40 per V100/hour.
+6. [GPU.land](https://gpu.land/) - 	$0.99 per V100/hour. 2nd lowest besides DataCrunch.io but promises to be more secure and stable than DataCrunch.
+7. [DataCrunch.io](https://datacrunch.io/) - $0.85 per V100/hour. The cheapest GPUs. Hosted in Finland.
+8. [Leader GPU](https://www.leadergpu.com/) - $1.20 per V100/hour. Based in the Netherlands.
+9. [FloydHub](https://www.floydhub.com/pricing) - $4.20 per V100/hour. More expensive than Azure, AWS and GCP.
+10. [Lambda Cloud](https://lambdalabs.com/service/gpu-cloud) - $1.50 per V100/hour. 
+
+[ML Contests](https://mlcontests.com/cloud-gpu) has a cloud GPU comparison table.
