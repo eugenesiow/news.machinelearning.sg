@@ -6,7 +6,18 @@
     <description>Recent content in Deep Learning on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Jun 2021 16:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Oct 2021 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Singlish Text to Speech with Malaya Speech</title>
+      <link>https://news.machinelearning.sg/posts/singlish_text_to_speech_with_malaya_speech/</link>
+      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/singlish_text_to_speech_with_malaya_speech/</guid>
+      <description>tl;dr A step-by-step tutorial to generate spoken singlish audio from text automatically using a pipeline of a Malaya Speech model and applying speech enhancement.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
     <item>
       <title>Anime Image Super Resolution with PyTorch and Waifu2x</title>
       <link>https://news.machinelearning.sg/posts/anime_super_resolution_with_pytorch/</link>
