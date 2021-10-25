@@ -6,20 +6,29 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Oct 2021 10:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colab</title>
       <link>https://news.machinelearning.sg/tags/colab/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/colab/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Computer Vision</title>
+      <link>https://news.machinelearning.sg/tags/computer-vision/</link>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning</title>
       <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
       <description></description>
@@ -28,7 +37,7 @@
     <item>
       <title>Jupyter Notebook</title>
       <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
       <description></description>
@@ -37,9 +46,36 @@
     <item>
       <title>Machine Learning</title>
       <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Character Recognition</title>
+      <link>https://news.machinelearning.sg/tags/optical-character-recognition/</link>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/optical-character-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://news.machinelearning.sg/tags/pytorch/</link>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code</title>
+      <link>https://news.machinelearning.sg/tags/source-code/</link>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
       <description></description>
     </item>
     
@@ -49,24 +85,6 @@
       <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://news.machinelearning.sg/tags/pytorch/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Code</title>
-      <link>https://news.machinelearning.sg/tags/source-code/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
       <description></description>
     </item>
     
@@ -85,15 +103,6 @@
       <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/text-to-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
-      <link>https://news.machinelearning.sg/tags/computer-vision/</link>
-      <pubDate>Tue, 15 Jun 2021 16:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/computer-vision/</guid>
       <description></description>
     </item>
     

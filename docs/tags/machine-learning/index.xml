@@ -6,7 +6,18 @@
     <description>Recent content in Machine Learning on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Oct 2021 10:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OCR (Optical Character Recognition) from Images with Transformers</title>
+      <link>https://news.machinelearning.sg/posts/ocr_from_images_with_transformers/</link>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/ocr_from_images_with_transformers/</guid>
+      <description>tl;dr A step-by-step tutorial to automatically recognise text (OCR) from images of handwritten and printed text using transformer encoder-decoder models.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
     <item>
       <title>Singlish Text to Speech with Malaya Speech</title>
       <link>https://news.machinelearning.sg/posts/singlish_text_to_speech_with_malaya_speech/</link>

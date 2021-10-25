@@ -4,41 +4,66 @@
   
   <url>
     <loc>https://news.machinelearning.sg/tags/colab/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/computer-vision/</loc>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/posts/ocr_from_images_with_transformers/</loc>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/optical-character-recognition/</loc>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/posts/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/source-code/</loc>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/</loc>
+    <lastmod>2021-10-21T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
     <lastmod>2021-10-21T08:00:00+08:00</lastmod>
   </url>
   
@@ -48,17 +73,7 @@
   </url>
   
   <url>
-    <loc>https://news.machinelearning.sg/tags/source-code/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://news.machinelearning.sg/tags/speech/</loc>
-    <lastmod>2021-10-21T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/</loc>
     <lastmod>2021-10-21T08:00:00+08:00</lastmod>
   </url>
   
@@ -69,11 +84,6 @@
   
   <url>
     <loc>https://news.machinelearning.sg/posts/anime_super_resolution_with_pytorch/</loc>
-    <lastmod>2021-06-15T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://news.machinelearning.sg/tags/computer-vision/</loc>
     <lastmod>2021-06-15T16:00:00+08:00</lastmod>
   </url>
   
