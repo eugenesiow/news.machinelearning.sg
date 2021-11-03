@@ -6,7 +6,18 @@
     <description>Recent content in Text-to-Speech on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Nov 2021 13:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mandarin Text to Speech with Coqui TTS</title>
+      <link>https://news.machinelearning.sg/posts/mandarin_text_to_speech_with_coqui_tts/</link>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/mandarin_text_to_speech_with_coqui_tts/</guid>
+      <description>tl;dr A step-by-step tutorial to generate spoken audio from text automatically using the enterprise-grade SileroTTS model and applying speech enhancement.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
     <item>
       <title>Singlish Text to Speech with Malaya Speech</title>
       <link>https://news.machinelearning.sg/posts/singlish_text_to_speech_with_malaya_speech/</link>

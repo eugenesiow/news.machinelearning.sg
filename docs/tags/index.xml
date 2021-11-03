@@ -6,13 +6,76 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 10:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Nov 2021 13:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colab</title>
       <link>https://news.machinelearning.sg/tags/colab/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/colab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://news.machinelearning.sg/tags/pytorch/</link>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code</title>
+      <link>https://news.machinelearning.sg/tags/source-code/</link>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>https://news.machinelearning.sg/tags/speech/</link>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-to-Speech</title>
+      <link>https://news.machinelearning.sg/tags/text-to-speech/</link>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/text-to-speech/</guid>
       <description></description>
     </item>
     
@@ -26,33 +89,6 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jupyter Notebook</title>
-      <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Optical Character Recognition</title>
       <link>https://news.machinelearning.sg/tags/optical-character-recognition/</link>
       <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
@@ -62,47 +98,11 @@
     </item>
     
     <item>
-      <title>PyTorch</title>
-      <link>https://news.machinelearning.sg/tags/pytorch/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Code</title>
-      <link>https://news.machinelearning.sg/tags/source-code/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Natural Language Processing</title>
       <link>https://news.machinelearning.sg/tags/natural-language-processing/</link>
       <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speech</title>
-      <link>https://news.machinelearning.sg/tags/speech/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Text-to-Speech</title>
-      <link>https://news.machinelearning.sg/tags/text-to-speech/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/text-to-speech/</guid>
       <description></description>
     </item>
     
