@@ -11,7 +11,7 @@ cover:
     alt: "Mandarin Text to Speech with Coqui TTS."
 ---
 
-> **tl;dr** A step-by-step tutorial to generate spoken audio from text automatically using the enterprise-grade SileroTTS model and applying speech enhancement.
+> **tl;dr** A step-by-step tutorial to generate spoken mandarin audio from text (语音合成) using the Coqui TTS library.
 
 ## Practical Machine Learning - Learn Step-by-Step to Train a Model
 
