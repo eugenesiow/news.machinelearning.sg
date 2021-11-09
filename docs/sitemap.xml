@@ -1,367 +1,227 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://news.machinelearning.sg/posts/anicharagan_anime_character_generation_with_stylegan2/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://news.machinelearning.sg/tags/colab/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/computer-vision/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://news.machinelearning.sg/posts/face_to_anime_with_animeganv2/</loc>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/gan/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/pytorch/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/source-code/</loc>
-    <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://news.machinelearning.sg/tags/style-transfer/</loc>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/</loc>
+    <lastmod>2021-11-09T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://news.machinelearning.sg/posts/anicharagan_anime_character_generation_with_stylegan2/</loc>
     <lastmod>2021-11-08T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/mandarin_text_to_speech_with_coqui_tts/</loc>
     <lastmod>2021-11-03T13:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/speech/</loc>
     <lastmod>2021-11-03T13:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/text-to-speech/</loc>
     <lastmod>2021-11-03T13:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/ocr_from_images_with_transformers/</loc>
     <lastmod>2021-10-21T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/optical-character-recognition/</loc>
     <lastmod>2021-10-21T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/natural-language-processing/</loc>
     <lastmod>2021-10-21T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/singlish_text_to_speech_with_malaya_speech/</loc>
     <lastmod>2021-10-21T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/anime_super_resolution_with_pytorch/</loc>
     <lastmod>2021-06-15T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/image-super-resolution/</loc>
     <lastmod>2021-06-15T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/text_to_speech_with_tacotron2_and_waveglow/</loc>
     <lastmod>2021-05-31T18:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/text_to_speech_with_silero/</loc>
     <lastmod>2021-05-31T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/object-detection/</loc>
     <lastmod>2021-05-30T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/object_detection_with_yolov5/</loc>
     <lastmod>2021-05-30T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/gpu/</loc>
     <lastmod>2021-01-06T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/hate-speech-detection/</loc>
     <lastmod>2021-01-06T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/hate_speech_detection_with_transformers/</loc>
     <lastmod>2021-01-06T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/artificial-intelligence/</loc>
     <lastmod>2020-12-30T15:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/fully_automated_manga_translation_with_ai/</loc>
     <lastmod>2020-12-30T15:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/machine-translation/</loc>
     <lastmod>2020-12-30T15:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/biology/</loc>
     <lastmod>2020-12-30T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/biology_named_entity_recognition_with_biobert/</loc>
     <lastmod>2020-12-30T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/named-entity-recognition/</loc>
     <lastmod>2020-12-30T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/ai_2020_roundup_talent_in_demand_gnns_are_hot_new_macbook_m1/</loc>
     <lastmod>2020-12-29T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/graph-neural-networks/</loc>
     <lastmod>2020-12-29T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/roundup/</loc>
     <lastmod>2020-12-29T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/ai_2020_roundup_alphafold_tennis_causality/</loc>
     <lastmod>2020-12-28T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/beautiful_profile_pics_remove_background_image_with_deeplabv3/</loc>
     <lastmod>2020-12-24T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/image-segmentation/</loc>
     <lastmod>2020-12-24T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/named_entity_recognition_with_bert_in_mandarin/</loc>
     <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB/</loc>
     <lastmod>2020-12-24T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/named_entity_recognition_on_weibo_in_mandarin/</loc>
     <lastmod>2020-12-24T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/sentiment-analysis/</loc>
     <lastmod>2020-12-23T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/sentiment_analysis_in_mandarin_with_xlnet/</loc>
     <lastmod>2020-12-23T10:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/train_a_named_entity_recognition_model_using_flair/</loc>
     <lastmod>2020-12-23T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/sentiment_analysis_on_movie_reviews_with_xlnet/</loc>
     <lastmod>2020-12-22T16:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/learn_to_train_a_state_of_the_art_model_for_sarcasm_detection/</loc>
     <lastmod>2020-12-22T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/sarcasm-detection/</loc>
     <lastmod>2020-12-22T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/an_english_to_mandarin_ai_glossary_of_state_of_the_art_topics/</loc>
     <lastmod>2020-12-18T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/chinese/</loc>
     <lastmod>2020-12-18T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/cloud-computing/</loc>
     <lastmod>2020-12-17T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/google_colab_vs_paperspace_gradient/</loc>
     <lastmod>2020-12-17T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/hardware/</loc>
     <lastmod>2020-12-17T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/github/</loc>
     <lastmod>2020-12-16T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/singapore/</loc>
     <lastmod>2020-12-16T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/tensorflow/</loc>
     <lastmod>2020-12-16T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/top_10_computer_vision_code_repositories_from_singapore/</loc>
     <lastmod>2020-12-16T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/top_10_natural_language_processing_code_repositories_from_singapore/</loc>
     <lastmod>2020-12-12T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/finance/</loc>
     <lastmod>2020-12-10T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/top_5_machine_learning_code_repositories_from_singapore/</loc>
     <lastmod>2020-12-10T08:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/conferences/</loc>
     <lastmod>2020-12-08T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/neurips/</loc>
     <lastmod>2020-12-08T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/neurips2020_singapores_entries_at_the_top_machine_learning_conference_this_year/</loc>
     <lastmod>2020-12-08T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/neuroscience/</loc>
     <lastmod>2020-12-08T09:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/posts/alphafold2_10_things_you_want_to_know_about_biologys_imagenet_moment/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/attention/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/convnet/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/deepmind/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/tags/transformers/</loc>
     <lastmod>2020-12-07T17:01:35+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/archives/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://news.machinelearning.sg/categories/</loc>
   </url>
-  
 </urlset>
