@@ -6,7 +6,19 @@
     <description>Recent content in Machine Learning on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Nov 2021 18:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 08:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video Subtitling with Wav2Vec2</title>
+      <link>https://news.machinelearning.sg/posts/video_subtitling_with_wav2vec2/</link>
+      <pubDate>Fri, 19 Nov 2021 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/video_subtitling_with_wav2vec2/</guid>
+      <description>tl;dr A step-by-step tutorial to automatically generate subtitles from a video using audio segmentation and Wav2Vec2.
+ Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough. 
+Continue on if you prefer reading the code here.</description>
+    </item>
+    
     <item>
       <title>Art Generation with v Diffusion</title>
       <link>https://news.machinelearning.sg/posts/art_generation_with_v_diffusion/</link>
