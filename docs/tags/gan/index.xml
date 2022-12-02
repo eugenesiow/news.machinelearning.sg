@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GAN on News @ machinelearning.sg</title>
+    <link>https://news.machinelearning.sg/tags/gan/</link>
+    <description>Recent content in GAN on News @ machinelearning.sg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Nov 2021 10:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/gan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Face to Anime with AnimeGANv2</title>
+      <link>https://news.machinelearning.sg/posts/face_to_anime_with_animeganv2/</link>
+      <pubDate>Tue, 09 Nov 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/face_to_anime_with_animeganv2/</guid>
+      <description>tl;dr A step-by-step tutorial to use AnimeGANv2 models to automatically convert faces in photos to anime style faces.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough. Continue on if you prefer reading the code here.</description>
+    </item>
+    
+    <item>
+      <title>AniCharaGAN: Anime Character Generation with StyleGAN2</title>
+      <link>https://news.machinelearning.sg/posts/anicharagan_anime_character_generation_with_stylegan2/</link>
+      <pubDate>Mon, 08 Nov 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/anicharagan_anime_character_generation_with_stylegan2/</guid>
+      <description>tl;dr A step-by-step tutorial to automatically generate anime characters (full-body) using a StyleGAN2 model.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough. Continue on if you prefer reading the code here.</description>
+    </item>
+    
+  </channel>
+</rss>

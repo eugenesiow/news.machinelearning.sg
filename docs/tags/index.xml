@@ -71,47 +71,65 @@
     </item>
     
     <item>
-      <title>Optical Character Recognition</title>
-      <link>https://news.machinelearning.sg/tags/optical-character-recognition/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/optical-character-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://news.machinelearning.sg/tags/pytorch/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Natural Language Processing</title>
       <link>https://news.machinelearning.sg/tags/natural-language-processing/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
+      <pubDate>Fri, 19 Nov 2021 08:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>PyTorch</title>
+      <link>https://news.machinelearning.sg/tags/pytorch/</link>
+      <pubDate>Fri, 19 Nov 2021 08:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Speech</title>
       <link>https://news.machinelearning.sg/tags/speech/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
+      <pubDate>Fri, 19 Nov 2021 08:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/speech/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>GAN</title>
+      <link>https://news.machinelearning.sg/tags/gan/</link>
+      <pubDate>Tue, 09 Nov 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Style Transfer</title>
+      <link>https://news.machinelearning.sg/tags/style-transfer/</link>
+      <pubDate>Tue, 09 Nov 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/style-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Text-to-Speech</title>
       <link>https://news.machinelearning.sg/tags/text-to-speech/</link>
-      <pubDate>Thu, 21 Oct 2021 08:00:00 +0800</pubDate>
+      <pubDate>Wed, 03 Nov 2021 13:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/text-to-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Character Recognition</title>
+      <link>https://news.machinelearning.sg/tags/optical-character-recognition/</link>
+      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/optical-character-recognition/</guid>
       <description></description>
     </item>
     
