@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/</link>
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Oct 2021 10:00:00 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 17:21:54 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colab</title>
       <link>https://news.machinelearning.sg/tags/colab/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/colab/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Computer Vision</title>
       <link>https://news.machinelearning.sg/tags/computer-vision/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/computer-vision/</guid>
       <description></description>
@@ -28,16 +28,25 @@
     <item>
       <title>Deep Learning</title>
       <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>GPU</title>
+      <link>https://news.machinelearning.sg/tags/gpu/</link>
+      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jupyter Notebook</title>
       <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
       <description></description>
@@ -46,9 +55,18 @@
     <item>
       <title>Machine Learning</title>
       <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
+      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code</title>
+      <link>https://news.machinelearning.sg/tags/source-code/</link>
+      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
       <description></description>
     </item>
     
@@ -67,15 +85,6 @@
       <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Code</title>
-      <link>https://news.machinelearning.sg/tags/source-code/</link>
-      <pubDate>Thu, 21 Oct 2021 10:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
       <description></description>
     </item>
     
@@ -121,15 +130,6 @@
       <pubDate>Sun, 30 May 2021 16:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/object-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPU</title>
-      <link>https://news.machinelearning.sg/tags/gpu/</link>
-      <pubDate>Wed, 06 Jan 2021 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/gpu/</guid>
       <description></description>
     </item>
     

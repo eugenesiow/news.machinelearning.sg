@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Optical Character Recognition on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/optical-character-recognition/</link>
@@ -14,8 +14,8 @@
       
       <guid>https://news.machinelearning.sg/posts/ocr_from_images_with_transformers/</guid>
       <description>tl;dr A step-by-step tutorial to automatically recognise text (OCR) from images of handwritten and printed text using transformer encoder-decoder models.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
-Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough. Continue on if you prefer reading the code here.</description>
     </item>
     
   </channel>

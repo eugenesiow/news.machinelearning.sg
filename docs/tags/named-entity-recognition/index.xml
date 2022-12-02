@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Named Entity Recognition on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/named-entity-recognition/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://news.machinelearning.sg/posts/biology_named_entity_recognition_with_biobert/</guid>
       <description>tl;dr A step-by-step tutorial to train a BioBERT model for named entity recognition (NER), extracting diseases and chemical on the BioCreative V CDR task corpus. Our model is #3-ranked and within 0.6 percentage points of the state-of-the-art.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
 Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
     </item>
     
@@ -25,7 +25,7 @@ Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud wit
       
       <guid>https://news.machinelearning.sg/posts/named_entity_recognition_with_bert_in_mandarin/</guid>
       <description>tl;dr A step-by-step tutorial to train a state-of-the-art model with BERT for named entity recognition (NER) in mandarin, 中文命名实体识别. Our model beats the state-of-the-art by 0.7 percentage points.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
 Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
     </item>
     
@@ -36,7 +36,7 @@ Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud wit
       
       <guid>https://news.machinelearning.sg/posts/named_entity_recognition_on_weibo_in_mandarin/</guid>
       <description>tl;dr A step-by-step tutorial to train a state-of-the-art model with flair and BERT for named entity recognition (NER) in mandarin, 中文命名实体识别, on a Weibo dataset. Our model beats the state-of-the-art by 20+ percentage points.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
 Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
     </item>
     
@@ -47,7 +47,7 @@ Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud wit
       
       <guid>https://news.machinelearning.sg/posts/train_a_named_entity_recognition_model_using_flair/</guid>
       <description>tl;dr A step-by-step tutorial to train a state-of-the-art model for named entity recognition (NER), the task of identifying persons, organizations and locations from a piece of text.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
 Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
     </item>
     

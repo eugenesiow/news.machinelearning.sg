@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Speech on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/speech/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://news.machinelearning.sg/posts/singlish_text_to_speech_with_malaya_speech/</guid>
       <description>tl;dr A step-by-step tutorial to generate spoken singlish audio from text automatically using a pipeline of a Malaya Speech model and applying speech enhancement.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
 Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
     </item>
     
@@ -25,7 +25,7 @@ Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud wit
       
       <guid>https://news.machinelearning.sg/posts/text_to_speech_with_tacotron2_and_waveglow/</guid>
       <description>tl;dr A step-by-step tutorial to generate spoken audio from text automatically using a pipeline of Nvidia&amp;rsquo;s Tacotron2 and WaveGlow models and applying speech enhancement.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
 Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
     </item>
     
@@ -36,8 +36,8 @@ Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud wit
       
       <guid>https://news.machinelearning.sg/posts/text_to_speech_with_silero/</guid>
       <description>tl;dr A step-by-step tutorial to generate spoken audio from text automatically using the enterprise-grade SileroTTS model and applying speech enhancement.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
-Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough. Continue on if you prefer reading the code here.</description>
     </item>
     
   </channel>

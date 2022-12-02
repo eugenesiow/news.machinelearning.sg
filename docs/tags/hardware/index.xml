@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hardware on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/hardware/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://news.machinelearning.sg/posts/google_colab_vs_paperspace_gradient/</guid>
       <description>tl;dr Google Colab and Paperspace Gradient both provide Jupyter notebooks with free GPUs in the cloud to code, train and test your ML models. Which is the better option? In this article we compare them. Our final answer is to use both depending on your current ML workloads and requirements.
- What is Google Colab and what is Paperspace Gradient? If we had to pick one particular tool that makes ML easier for everyone, it would be cloud Jupyter notebooks.</description>
+What is Google Colab and what is Paperspace Gradient? If we had to pick one particular tool that makes ML easier for everyone, it would be cloud Jupyter notebooks.</description>
     </item>
     
   </channel>

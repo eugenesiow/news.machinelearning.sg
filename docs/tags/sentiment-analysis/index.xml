@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sentiment Analysis on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/sentiment-analysis/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://news.machinelearning.sg/posts/sentiment_analysis_in_mandarin_with_xlnet/</guid>
       <description>tl;dr A step-by-step tutorial to train a state-of-the-art model for sentiment analysis on mandarin food delivery reviews using the XLNet architecture. We will use Google Colab&amp;rsquo;s free Jupyter Notebook in the cloud.
- Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
 Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
     </item>
     
@@ -25,7 +25,7 @@ Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud wit
       
       <guid>https://news.machinelearning.sg/posts/sentiment_analysis_on_movie_reviews_with_xlnet/</guid>
       <description>tl;dr A step-by-step tutorial to train a sentiment analysis model to classify polarity of IMDB movie reviews with XLNet using a free Jupyter Notebook in the cloud.
- The IMDB Movie Reviews Dataset and XLNet The Internet Movie Database (IMDb) movie reviews dataset is a very well-established benchmark (since 2011) for sentiment analysis performance. It&amp;rsquo;s probably the first large-ish (50,000 train+test), balanced sentiment analysis dataset, making it a very nice dataset for benchmarking on.</description>
+The IMDB Movie Reviews Dataset and XLNet The Internet Movie Database (IMDb) movie reviews dataset is a very well-established benchmark (since 2011) for sentiment analysis performance. It&amp;rsquo;s probably the first large-ish (50,000 train+test), balanced sentiment analysis dataset, making it a very nice dataset for benchmarking on.</description>
     </item>
     
   </channel>

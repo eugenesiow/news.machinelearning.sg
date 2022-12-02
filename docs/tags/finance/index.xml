@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Finance on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/finance/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://news.machinelearning.sg/posts/top_5_machine_learning_code_repositories_from_singapore/</guid>
       <description>tl;dr We feature 5 of the top machine learning code repositories on Github from Singapore. The Top 5 is made up of popular implementations of state-of-the-art Computer Vision (CV) and Natural Language Processing (NLP) models and even a high-frequency trading project. The ranking is decided based on the total stars (stargazer count) of the repositories.
- 5. PyTorch Implementation of EfficientDet   Architecture of EfficientDet including a weighted bi-directional feature pyramid network (BiFPN).</description>
+5. PyTorch Implementation of EfficientDet Architecture of EfficientDet including a weighted bi-directional feature pyramid network (BiFPN).</description>
     </item>
     
   </channel>

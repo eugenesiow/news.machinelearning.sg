@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sarcasm Detection on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/sarcasm-detection/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://news.machinelearning.sg/posts/learn_to_train_a_state_of_the_art_model_for_sarcasm_detection/</guid>
       <description>tl;dr A step-by-step tutorial to train a state-of-the-art model to detect sarcasm 🙄 from tweets with a free Jupyter Notebook in the cloud.
- Sooo Impressive Sarcasm Detection Model on Tweets Recently Venture Beat published (and Communications of the ACM referenced)
+Sooo Impressive Sarcasm Detection Model on Tweets Recently Venture Beat published (and Communications of the ACM referenced)
 a news article titled &amp;ldquo;AI researchers made a sarcasm detection model and it’s sooo impressive&amp;rdquo; which detailed how researchers from China had come up with a &amp;ldquo;sarcasm detection AI&amp;rdquo; that &amp;ldquo;achieved state-of-the-art performance on a dataset drawn from Twitter&amp;rdquo;.</description>
     </item>
     

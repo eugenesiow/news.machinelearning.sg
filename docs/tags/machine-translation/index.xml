@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Machine Translation on News @ machinelearning.sg</title>
     <link>https://news.machinelearning.sg/tags/machine-translation/</link>
@@ -14,7 +14,7 @@
       
       <guid>https://news.machinelearning.sg/posts/fully_automated_manga_translation_with_ai/</guid>
       <description>A recent paper by Japanese researchers shows how they built a system to fully automate the process of translating manga from Japanese to English. Given a manga page, the system translates and replaces the original Japanese text with English and formats it nicely on the page.
- Contextual Information from Manga Images One of the novel innovations of this recent paper titled &amp;ldquo;Towards Fully Automated Manga Translation&amp;rdquo; by Japanese researchers Ryota Hinami et al.</description>
+Contextual Information from Manga Images One of the novel innovations of this recent paper titled &amp;ldquo;Towards Fully Automated Manga Translation&amp;rdquo; by Japanese researchers Ryota Hinami et al.</description>
     </item>
     
   </channel>
