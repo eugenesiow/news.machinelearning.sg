@@ -27,7 +27,7 @@ Continue on if you prefer reading the code here.
 ## Face Super Resolution with Real ESRGAN
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugenesiow/practical-ml/blob/master/notebooks/{notebook_name} "Open in Colab")
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eugenesiow/practical-ml/blob/master/notebooks/Face_Super_Resolution_Real_ESRGAN.ipynb "Open in Colab")
 
 
 Notebook to do image super resolution with a PyTorch implementation of  Real-ESRGAN and a [custom model](https://huggingface.co/sberbank-ai/Real-ESRGAN) by [sberbank-ai](https://github.com/ai-forever) which performs better on faces.

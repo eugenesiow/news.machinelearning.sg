@@ -6,13 +6,67 @@
     <description>Recent content in Tags on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Dec 2022 17:21:54 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 17:22:05 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colab</title>
       <link>https://news.machinelearning.sg/tags/colab/</link>
-      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
+      <pubDate>Fri, 16 Dec 2022 17:22:05 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/colab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
+      <pubDate>Fri, 16 Dec 2022 17:22:05 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://news.machinelearning.sg/tags/gpu/</link>
+      <pubDate>Fri, 16 Dec 2022 17:22:05 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
+      <pubDate>Fri, 16 Dec 2022 17:22:05 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
+      <pubDate>Fri, 16 Dec 2022 17:22:05 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code</title>
+      <link>https://news.machinelearning.sg/tags/source-code/</link>
+      <pubDate>Fri, 16 Dec 2022 17:22:05 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>https://news.machinelearning.sg/tags/speech/</link>
+      <pubDate>Fri, 16 Dec 2022 17:22:05 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/tags/speech/</guid>
       <description></description>
     </item>
     
@@ -22,51 +76,6 @@
       <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://news.machinelearning.sg/tags/deep-learning/</link>
-      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPU</title>
-      <link>https://news.machinelearning.sg/tags/gpu/</link>
-      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jupyter Notebook</title>
-      <link>https://news.machinelearning.sg/tags/jupyter-notebook/</link>
-      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/jupyter-notebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://news.machinelearning.sg/tags/machine-learning/</link>
-      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Code</title>
-      <link>https://news.machinelearning.sg/tags/source-code/</link>
-      <pubDate>Fri, 02 Dec 2022 17:21:54 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/source-code/</guid>
       <description></description>
     </item>
     
@@ -85,15 +94,6 @@
       <pubDate>Fri, 19 Nov 2021 08:00:00 +0800</pubDate>
       
       <guid>https://news.machinelearning.sg/tags/pytorch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Speech</title>
-      <link>https://news.machinelearning.sg/tags/speech/</link>
-      <pubDate>Fri, 19 Nov 2021 08:00:00 +0800</pubDate>
-      
-      <guid>https://news.machinelearning.sg/tags/speech/</guid>
       <description></description>
     </item>
     
