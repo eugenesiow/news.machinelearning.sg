@@ -10,6 +10,7 @@ cover:
     image: "04_paperspace_vs_colab.png"
     alt: "Is Google Colab or Paperspace Gradient better for training ML models in the cloud on free GPUs? We say use both."
     caption: "Is Google Colab or Paperspace Gradient better for training ML models in the cloud on free GPUs? We say use both."
+    relative: true
 ---
 
 > **tl;dr** Google Colab and Paperspace Gradient both provide Jupyter notebooks with free GPUs in the cloud to code, 

@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "cv_repo_nuscenes.jpg"
+    relative: true
     alt: "nuScenes dataset from Motional (formerly nuTonomy) featuring 1000 driving scenes in Boston and Singapore. Retrieved from Github."
     caption: "nuScenes dataset from Motional (formerly nuTonomy) featuring 1000 driving scenes in Boston and Singapore."
 ---

@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "tennis.png"
+    relative: true
     alt: "Vid2Player: Controllable Video Sprites that Behave and Appear like Professional Tennis Players. Retrieved from Youtube."
 ---
 

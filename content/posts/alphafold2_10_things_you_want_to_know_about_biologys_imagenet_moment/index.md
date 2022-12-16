@@ -10,6 +10,7 @@ cover:
     image: "alphafold2_global_distance_test.png"
     alt: "AlphaFold2 performance on the global distance test. Retrieved from the official AlphaFold2 video."
     caption: "DeepMind's AlphaFold2 prediction performance on a target by the global distance test (GDT)."
+    relative: true
 ---
 
 > **tl;dr** *AlphaFold2*, an AI program developed by [DeepMind](https://deepmind.com/about), completely blew away the 

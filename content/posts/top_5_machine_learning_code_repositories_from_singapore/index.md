@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "repo_efficientdet.gif"
+    relative: true
     alt: "Object bounding boxes on video footage as predicted by EfficientDet, a family of scalable and efficient object detectors."
     caption: "Object bounding boxes on video footage as predicted by EfficientDet, a family of scalable and efficient object detectors."
 ---

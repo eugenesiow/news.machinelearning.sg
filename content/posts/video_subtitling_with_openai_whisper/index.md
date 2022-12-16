@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "splash/Video_Subtitling_with_OpenAI_Whisper_9.png"
     alt: "Video Subtitling with OpenAI Whisper"
+    relative: true
 ---
 
 > **tl;dr** 

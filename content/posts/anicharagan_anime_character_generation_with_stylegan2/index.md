@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "ani_chara_gan.jpg"
     alt: "AniCharaGAN - Anime Character Generation with StyleGAN2"
+    relative: true
 ---
 
 > **tl;dr** A step-by-step tutorial to automatically generate anime characters (full-body) using a StyleGAN2 model. 

@@ -10,6 +10,7 @@ cover:
     image: "non_euclidean_data.png"
     alt: "Examples of non-euclidean data where GNNs are being applied on. Retrieved from Flawnson Tong's Article on Medium."
     caption: "Examples of non-euclidean data where GNNs are being applied on. Retrieved from Medium."
+    relative: true
 ---
 
 > Part 2 of our roundup featuring the latest and greatest AI advancements and directions from 2020. We cover the global 

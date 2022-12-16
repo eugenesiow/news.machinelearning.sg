@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "ner_msra.png"
+    relative: true
     alt: "Named Entity Recognition with BERT in Mandarin"
 ---
 

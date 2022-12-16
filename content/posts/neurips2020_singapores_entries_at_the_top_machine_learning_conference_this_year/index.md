@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "neurips2020_logo.png"
+    relative: true
     alt: "The Conference and Workshop on Neural Information Processing Systems (NeurIPS) 2020."
     caption: "The Conference and Workshop on Neural Information Processing Systems (NeurIPS) 2020."
 ---

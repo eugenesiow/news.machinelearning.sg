@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "biobert.jpg"
     alt: "Biology NER with BioBERT to Extract Diseases and Chemicals."
+    relative: true
 ---
 
 > **tl;dr** A step-by-step tutorial to train a BioBERT model for named entity recognition (NER), extracting diseases and

@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "tts_coqui.jpg"
+    relative: true
     alt: "Mandarin Text to Speech with Coqui TTS."
 ---
 

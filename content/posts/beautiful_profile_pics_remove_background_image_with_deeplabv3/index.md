@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "remove_bg.png"
     alt: "Remove Image Background on a Profile Photo with DeepLabV3"
+    relative: true
 ---
 
 > **tl;dr** A step-by-step tutorial to remove backgrounds from photos automatically with DeepLabV3-ResNet101 to create 

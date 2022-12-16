@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "anime_gan_v2.jpg"
     alt: "AnimeGANv2"
+    relative: true
 ---
 
 > **tl;dr** A step-by-step tutorial to use AnimeGANv2 models to automatically convert faces in photos to anime style faces. 

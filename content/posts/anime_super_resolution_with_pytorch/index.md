@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "anime_super_resolution.jpg"
     alt: "Anime Image Super Resolution with PyTorch and Waifu2x"
+    relative: true
 ---
 
 > **tl;dr** A step-by-step tutorial to upscale anime images by 2x using Waifu2x and CARN V2 super resolution models.

@@ -8,6 +8,7 @@ TocOpen: true
 draft: false
 cover:
     image: "06_english_mandarin_ai_glossary.png"
+    relative: true
 ---
 
 > **tl;dr**  An English to Mandarin glossary of AI terminology, grouped topically by areas (e.g. NLP) and then tasks 

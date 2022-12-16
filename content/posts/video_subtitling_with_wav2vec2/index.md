@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "wav2vec2.jpg"
+    relative: true
     alt: "Video Subtitling with Wav2Vec2"
 ---
 

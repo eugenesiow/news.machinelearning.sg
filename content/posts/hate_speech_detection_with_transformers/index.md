@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "hate_speech.jpg"
     alt: "Hate Speech Detection on Dynabench"
+    relative: true
 ---
 
 > **tl;dr** A step-by-step tutorial to train a hate speech detection model to classify text containing hate speech. The 

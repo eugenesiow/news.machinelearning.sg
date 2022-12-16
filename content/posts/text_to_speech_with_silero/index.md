@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "tts_silero.jpg"
+    relative: true
     alt: "Text to Speech with Silero. Image from Unsplash by Volodymyr Hryshchenko."
 ---
 

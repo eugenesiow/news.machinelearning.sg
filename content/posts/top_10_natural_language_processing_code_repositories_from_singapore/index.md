@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "nlp_repo_gpt2_client.png"
+    relative: true
     alt: "Exploring GPT-2 models in less than five lines of code. Retrieved from Github."
     caption: "Exploring GPT-2 models in less than five lines of code."
 ---

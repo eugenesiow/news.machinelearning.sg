@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "singlish_text_to_speech.jpg"
+    relative: true
     alt: "Singlish Text to Speech with Malaya Speech"
 ---
 

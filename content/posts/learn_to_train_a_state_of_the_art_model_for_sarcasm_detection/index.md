@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "sarcasm_detection.png"
+    relative: true
     alt: "Sarcasm Detection on Tweets"
 ---
 

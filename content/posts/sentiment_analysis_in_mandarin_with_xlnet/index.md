@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "sa_mandarin.png"
+    relative: true
     alt: "Sentiment Analysis in Mandarin on Food Delivery Reviews"
 ---
 

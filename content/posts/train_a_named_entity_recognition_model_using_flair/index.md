@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "ner.png"
+    relative: true
     alt: "Named Entity Recognition (NER) Model Using FLAIR"
 ---
 

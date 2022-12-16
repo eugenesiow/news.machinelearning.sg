@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "ocr_from_images.jpg"
+    relative: true
     alt: "Optical Character Recognition from Images with TrOCR"
 ---
 

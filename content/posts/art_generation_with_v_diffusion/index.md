@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "v_diffusion.jpg"
     alt: "Art Generation with v-diffusion"
+    relative: true
 ---
 
 > **tl;dr** A step-by-step tutorial to generate art pieces from a text prompt. 

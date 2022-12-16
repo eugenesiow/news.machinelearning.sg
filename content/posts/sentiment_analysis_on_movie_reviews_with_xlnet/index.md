@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "sentiment_analysis_movies.png"
+    relative: true
     alt: "Sentiment Analysis on Movie Reviews"
 ---
 

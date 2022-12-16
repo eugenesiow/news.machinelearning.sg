@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "mt_manga.jpg"
     alt: "Given a manga page, the system automatically translates and replaces the original texts from Japanese to English. Retrieved from the official Paper."
+    relative: true
 ---
 
 > A recent paper by Japanese researchers shows how they built a system to fully automate the process of translating manga

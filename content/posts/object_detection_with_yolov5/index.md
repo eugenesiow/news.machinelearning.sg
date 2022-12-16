@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "object_detection.jpg"
+    relative: true
     alt: "Object Detection with YOLOv5: Detecting People in Images"
 ---
 

@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "tts_waveglow.jpg"
+    relative: true
     alt: "Text to Speech with Tacotron2 and WaveGlow. Image from Unsplash by Hrayr Movsisyan."
 ---
 

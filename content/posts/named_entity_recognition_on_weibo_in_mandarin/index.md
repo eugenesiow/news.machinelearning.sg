@@ -8,6 +8,7 @@ TocOpen: false
 draft: false
 cover:
     image: "ner_weibo.png"
+    relative: true
     alt: "Named Entity Recognition on Weibo in Mandarin"
 ---
 

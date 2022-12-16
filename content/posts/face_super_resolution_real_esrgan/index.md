@@ -9,6 +9,7 @@ draft: false
 cover:
     image: "splash/Face_Super_Resolution_Real_ESRGAN_1.png"
     alt: "Face Super Resolution with Real ESRGAN"
+    relative: true
 ---
 
 > **tl;dr** A step-by-step tutorial to upscale images with faces in the foreground by Real ESRGAN.
