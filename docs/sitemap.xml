@@ -3,40 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://news.machinelearning.sg/tags/colab/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
+  </url><url>
+    <loc>https://news.machinelearning.sg/tags/computer-vision/</loc>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/tags/deep-learning/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
+  </url><url>
+    <loc>https://news.machinelearning.sg/tags/document-ai/</loc>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
+  </url><url>
+    <loc>https://news.machinelearning.sg/posts/document_image_classification_dit/</loc>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/tags/gpu/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/tags/jupyter-notebook/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/tags/machine-learning/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/posts/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/tags/source-code/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
+  </url><url>
+    <loc>https://news.machinelearning.sg/tags/</loc>
+    <lastmod>2022-12-19T17:15:46+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/tags/speech/</loc>
     <lastmod>2022-12-16T17:22:05+08:00</lastmod>
   </url><url>
-    <loc>https://news.machinelearning.sg/tags/</loc>
-    <lastmod>2022-12-16T17:22:05+08:00</lastmod>
-  </url><url>
     <loc>https://news.machinelearning.sg/posts/video_subtitling_with_openai_whisper/</loc>
     <lastmod>2022-12-16T17:22:05+08:00</lastmod>
-  </url><url>
-    <loc>https://news.machinelearning.sg/tags/computer-vision/</loc>
-    <lastmod>2022-12-02T17:21:54+08:00</lastmod>
   </url><url>
     <loc>https://news.machinelearning.sg/posts/face_super_resolution_real_esrgan/</loc>
     <lastmod>2022-12-02T17:21:54+08:00</lastmod>

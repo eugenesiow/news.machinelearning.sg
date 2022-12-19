@@ -6,7 +6,18 @@
     <description>Recent content in Posts on News @ machinelearning.sg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Dec 2022 17:22:05 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Dec 2022 17:15:46 +0800</lastBuildDate><atom:link href="https://news.machinelearning.sg/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Document Image Classification with Document Image Transformer (DiT)</title>
+      <link>https://news.machinelearning.sg/posts/document_image_classification_dit/</link>
+      <pubDate>Mon, 19 Dec 2022 17:15:46 +0800</pubDate>
+      
+      <guid>https://news.machinelearning.sg/posts/document_image_classification_dit/</guid>
+      <description>tl;dr A step-by-step tutorial to automatically classify documents based on images of their contents. For example, automatically identify scientific papers or handwritten notes.
+Practical Machine Learning - Learn Step-by-Step to Train a Model A great way to learn is by going step-by-step through the process of training and evaluating the model.
+Hit the Open in Colab button below to launch a Jupyter Notebook in the cloud with a step-by-step walkthrough.</description>
+    </item>
+    
     <item>
       <title>Video Subtitling with OpenAI Whisper</title>
       <link>https://news.machinelearning.sg/posts/video_subtitling_with_openai_whisper/</link>
